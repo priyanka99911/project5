@@ -1,0 +1,2 @@
+jenkins is a methodology
+jenkins consist of continuous integration and continuous deployment

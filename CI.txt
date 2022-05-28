@@ -1,0 +1,1 @@
+continuous integration is defined as adding the coding with one another and having continous feedback

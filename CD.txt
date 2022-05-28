@@ -1,0 +1,1 @@
+continuous delivery or deployment defined as continuous deployment and gives the results 
